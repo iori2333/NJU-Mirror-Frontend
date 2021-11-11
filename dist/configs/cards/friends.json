@@ -1,0 +1,15 @@
+{
+  "title": "Partner Websites",
+  "links": [
+    {
+      "title": "IT Xia",
+      "url": "https://nju.itxia.cn/",
+      "icon": "male"
+    },
+    {
+      "title": "e-Science",
+      "url": "https://sci.nju.edu.cn/",
+      "icon": "school"
+    }
+  ]
+}
