@@ -1,0 +1,1 @@
+import{b as r}from"./utils-256917cc.js";import{j as t,t as s,S as o}from"./usePromise-91154b4c.js";async function f(){return await t(o+"documentations/index.json")}async function i(a){return(a==null?void 0:a.path)==null?Promise.resolve("No document available."):await s(o+`documentations/${a.path}`,n=>r(n))}export{i as a,f};
